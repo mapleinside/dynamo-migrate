@@ -2,6 +2,8 @@
 
 > Node.js migration tools for AWS DynamoDB
 
+> ❌ Sorry, but this library is no longer maintained. Please find an alternative.
+
 ## Configuration 
 
 At first, you need to setup the environment variables:
